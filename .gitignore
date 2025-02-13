@@ -8,9 +8,6 @@
 /.vscode/
 /*.iml
 
-# Ignorar bibliotecas baixadas manualmente
-/lib/*.jar
-
 # Ignorar logs e arquivos temporários
 *.log
 *.tmp
