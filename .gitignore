@@ -1,0 +1,24 @@
+# Ignorar arquivos de compilação
+/bin/
+/build/
+*.class
+
+# Ignorar configurações de IDEs
+/.idea/
+/.vscode/
+/*.iml
+
+# Ignorar bibliotecas baixadas manualmente
+/lib/*.jar
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos gerados pelo sistema
+/out/
+
+# Ignorar arquivos de imagem
+*.png
